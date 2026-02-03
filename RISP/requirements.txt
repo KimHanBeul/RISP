@@ -1,0 +1,12 @@
+# recbole
+transformers==4.40.1
+fairscale
+fire
+tiktoken==0.4.0
+blobfile
+markupsafe==2.0.1
+jinja2==3.0.0
+sentence_transformers==3.0.1
+bitsandbytes==0.43.1
+
+# /home/work/.local/lib/python3.10/site-packages/recbole/data/dataloader/abstract_dataloader.py => self.generator = torch.Generator(device='cuda')
