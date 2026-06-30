@@ -20,4 +20,4 @@ python run_test.py -d m1-1m
 ## Acknowledgement
 **RISP** is built upon the **LLMSRec_Syn** framework for model construction and experimentation.  
 
-We would like to acknowledge the authors of [LLaRA](https://github.com/demoleiwang/LLMSRec_Syn) for their open-source contributions.
+We would like to acknowledge the authors of [LLMSRec_Syn](https://github.com/demoleiwang/LLMSRec_Syn) for their open-source contributions.
